@@ -1,0 +1,25 @@
+{
+  "name": "visits",
+  "version": "1.0.0",
+  "description": "A simple page to illustrate docker-compose use",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "test",
+    "node",
+    "tutorial",
+    "javascript",
+    "express",
+    "docker-compose",
+    "docker"
+  ],
+  "author": "Victor Teodoro",
+  "license": "MIT",
+  "devDependencies": {
+    "express": "^4.16.4",
+    "redis": "^2.8.0"
+  }
+}
